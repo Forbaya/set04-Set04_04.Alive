@@ -15,7 +15,7 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://github.com/Forbaya/set04-Set04_04.Alive";
     }
 
     public static String herokuUrl() {
