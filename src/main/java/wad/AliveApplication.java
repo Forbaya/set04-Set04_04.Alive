@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "https://dashboard.heroku.com/apps/pacific-mountain-95478";
+        return "https://fierce-everglades-72899.herokuapp.com";
     }
 }
