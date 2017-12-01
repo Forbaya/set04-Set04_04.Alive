@@ -11,11 +11,11 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/Forbaya/set04-Set04_04.Alive";
     }
 
     public static String travisUrl() {
-        return "https://github.com/Forbaya/set04-Set04_04.Alive";
+        return "https://travis-ci.org/Forbaya/set04-Set04_04.Alive";
     }
 
     public static String herokuUrl() {
