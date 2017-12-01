@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://dashboard.heroku.com/apps/pacific-mountain-95478";
     }
 }
